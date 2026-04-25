@@ -8,3 +8,5 @@ Includes:
 - SQL schema
 - Sample data
 - Basic queries
+
+Final version updated after submission for completeness.
