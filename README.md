@@ -7,6 +7,9 @@
 Includes:
 - SQL schema
 - Sample data
-- Basic queries
+- Basic queries 
+JOIN queries
+Aggregation (COUNT, SUM, etc.)
+Filtering (WHERE conditions)
+Real-world use cases
 
-Final version updated after submission for completeness.
